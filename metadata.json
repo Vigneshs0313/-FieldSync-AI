@@ -1,0 +1,6 @@
+{
+  "name": "FieldSync AI",
+  "description": "Offline-first collaborative field inspection app with CRDT conflict resolution, offline sync queue, immutable audit logs, and InspectAI analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
